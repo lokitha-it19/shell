@@ -1,0 +1,8 @@
+bat
+cow
+deer
+dog
+lion
+parrot
+peacock
+penguin
